@@ -6,9 +6,16 @@ I will utilise github pages site to host my completed work linked *here* **(link
 ---
 
 ## Goals of this project
-- Demonstrate comptency with markdown
+1 Demonstrate comptency with markdown
     - Shown in the readme file
-- Demonstrate comptency with knitting html files in R
+2 Demonstrate comptency with knitting html files in R
     - Shown in the website linked above
-- Demonstrate **basic** comptency with imagine manipulation in R using the magick package
+3 Demonstrate **basic** comptency with imagine manipulation in R using the magick package
     - also shown in the website linked above
+
+---
+
+## Cool Websites
+- [Presidential Ham](https://presidentialham.com/)
+- [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
+- [This Website Will Self Destruct](https://www.thiswebsitewillselfdestruct.com/)
