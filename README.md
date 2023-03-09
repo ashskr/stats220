@@ -6,11 +6,11 @@ I will utilise github pages site to host my completed work linked [*here*](https
 ---
 
 ## Goals of this project
-1 Demonstrate comptency with markdown
+1. Demonstrate comptency with markdown
     - Shown in the readme file
-2 Demonstrate comptency with knitting html files in R
+2. Demonstrate comptency with knitting html files in R
     - Shown in the website linked above
-3 Demonstrate **basic** comptency with imagine manipulation in R using the magick package
+3. Demonstrate **basic** comptency with imagine manipulation in R using the magick package
     - also shown in the website linked above
 
 ---
